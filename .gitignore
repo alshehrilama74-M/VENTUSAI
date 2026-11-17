@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+*.xlsx
+*.xls
+*.pkl
+*.joblib
+scada_cleaned.csv
+logs_all_events.csv.gz
